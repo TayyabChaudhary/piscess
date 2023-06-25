@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-image{
+    background-image: url('./assets/images/background/m1-s-2.jpg');
+}
+.next-generation{
+    background-image: url('./assets/images/background/m-1-bg-1.jpg');
+}
+.logo-bg{
+    background-image: url('./assets/images/background/m3-bg-3.jpg');
+}
+
+/* Home Page 2 Banner Images */
+.home-page-two-banner-image{
+    background-image: url('./assets/images/background/m2-s-1.jpg');
+}
+
+.gradient-color{
+   background: -webkit-linear-gradient(180deg,#de92c2 0%,#6b56e2 100%)
+}
+
+.user__social__image{
+    background-image: url('./assets/images/background/m2-bg-1.png');
+}
+
+.what-we-work{
+    background-image: url('./assets/images/background/m2-bg-2.jpg');
+}
+
+.man__image{
+    background-image: url('./assets/images/background/m2-bg-4.jpg');
+}
+
+.demo-03-bg-image {
+    background-image: url('./assets/images/background/m3-s-1.jpg');
+}
+
+.section-two-main{
+    background-image: url('./assets/images/background/m3-bg-1.jpg');
+}

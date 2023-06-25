@@ -1,0 +1,9 @@
+
+.faqs{
+    background-image: url('../../assets/images/background/faq-bg.jpg');
+}
+
+/* contact-us */
+.contact-us{
+    background: -webkit-linear-gradient(left, rgb(88, 75, 231) 0%, rgb(220, 145, 195) 100%);
+}
